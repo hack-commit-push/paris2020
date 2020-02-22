@@ -1,0 +1,10 @@
+gold: []
+silver: []
+bronze: []
+other: 
+  - name: Scaleway
+    url: https://www.scaleway.com/
+    picture: scaleway.png
+  - name: Swicket
+    url: https://swicket.io/
+    picture: swicket.png

@@ -1,0 +1,19 @@
+[]
+#- name: Apache Maven
+#  url: https://maven.apache.org/
+#  description:
+#    en: |
+#      Apache Maven is a software project management and comprehension tool. 
+#      Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.<br/><br/>Contributions:
+#      <ul>
+#        <li><a href="https://issues.apache.org/jira/browse/MSKINS-107">https://issues.apache.org/jira/browse/MSKINS-107</a></li>
+#        <li><a href="https://issues.apache.org/jira/browse/DOXIATOOLS-59">https://issues.apache.org/jira/browse/DOXIATOOLS-59</a></li>
+#        <li><a href="https://issues.apache.org/jira/browse/MNGSITE-353">https://issues.apache.org/jira/browse/MNGSITE-353</a></li>
+#        <li><a href="https://issues.apache.org/jira/browse/MSKINS-97">https://issues.apache.org/jira/browse/MSKINS-97</a></li>
+#        <li>How to get full Maven sources on Windows, given Google Repo does not work here.</li>
+#        <li>Check of pgp signatures for plugins.</li>
+#        <li>Reproducible Builds force archive entries timestamp in plexus-archiver: explain/review/improve PR #113 in light of pre-existing PR #49.</li>
+#        <li>Jansi improvements explanations/review (see PR 146 to 153).</li>
+#      </ul>
+#  leads:
+#    - name: Hervé Boutemy

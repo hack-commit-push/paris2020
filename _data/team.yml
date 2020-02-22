@@ -1,0 +1,30 @@
+core:
+  - name: Agathe
+    twitter: agathe_vaisse
+    picture: agathe.png
+    short_desc: Developer at OUI.sncf
+
+  - name: Andres
+    twitter: aalmiray
+    picture: andres.png
+    short_desc: Developer Advocate at Oracle
+
+  - name: Dilek
+    twitter: dyild
+    picture: dilek.png
+    short_desc: Freelance Translator and Marketer
+
+  - name: Florent
+    twitter: fbiville
+    picture: florent.png
+    short_desc: Developer at Pivotal
+
+  - name: Hervé
+    twitter: hboutemy
+    picture: herve.png
+    short_desc: Solutions Architect at Sonatype
+
+  - name: Michael
+    twitter: mesirii
+    picture: michael.png
+    short_desc: GraphAddict at Neo4j
