@@ -1,28 +1,16 @@
 - start: "9:00"
-  end: "10:00"
-  description: Register at the reception, meet the other attendants!
-  icon: coffee
-- start: "10:00"
-  end: "11:00"
-  description: Hear what the organizers, sponsors and project leads have to say!
+  end: "9:30"
+  description: Introduction to the conference format, virtual keynotes
   icon: bullhorn
-- start: "11:00"
-  end: "13:00"
-  description: Attend trainings or join a project and work on a contribution.
+- start: "9:30"
+  end: "9:45"
+  description: Time to pick a project!
+  icon: list
+- start: "9:45"
+  end: "15:00"
+  description: Start your contributions (and take breaks!)
   icon: laptop
-- start: "13:00"
-  end: "14:00"
-  description: Time to rest and enjoy a good lunch.
-  icon: cutlery
-- start: "14:00"
-  end: "18:30"
-  description: Start/resume your contributions.
-  icon: fork
-- start: "18:30"
-  end: "19:00"
+- start: "15:00"
+  end: "15:30"
   description: Let's listen to the end keynotes.
   icon: bullhorn
-- start: "19:00"
-  end: "20:00"
-  description: Relax and chat with other participants.
-  icon: glass
