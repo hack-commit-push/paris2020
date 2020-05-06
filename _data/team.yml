@@ -17,7 +17,7 @@ core:
   - name: Florent
     twitter: fbiville
     picture: florent.png
-    short_desc: Developer at Pivotal
+    short_desc: Developer at VMware Tanzu
 
   - name: Hervé
     twitter: hboutemy
