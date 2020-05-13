@@ -5,6 +5,7 @@
       XWiki is the Advanced Open Source Enterprise Wiki.
   leads:
     - name: Ludovic Dubost
+    - name: Clément Aubin
 - name: CryptPad
   url: https://cryptpad.fr/
   description:
@@ -13,3 +14,4 @@
       All the content stored on CryptPad is encrypted before being sent.
   leads:
     - name: Ludovic Dubost
+    - name: Clément Aubin
