@@ -42,3 +42,11 @@
       Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
   leads:
     - name: Hervé Boutemy
+- name: Kubernetes FR Docs
+  url: https://kubernetes.io/fr/docs/
+  description:
+    fr: |
+      Nous vous proposons d’améliorer la traduction de la documentation de Kubernetes au cours de cet atelier.
+      Nous verrons les principales problématiques, le processus de revue et les outils qui servent à fournir la documentation de Kubernetes.
+  leads:
+    - name: Rémy Leone
