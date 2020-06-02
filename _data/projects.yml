@@ -50,3 +50,20 @@
       Nous verrons les principales problématiques, le processus de revue et les outils qui servent à fournir la documentation de Kubernetes.
   leads:
     - name: Rémy Leone
+- name: Eclipse Che
+  url: https://www.eclipse.org/che/
+  description:
+    en: |
+      Eclipse Che makes Kubernetes development accessible for developer teams, providing one-click developer workspaces
+      and eliminating local environment configuration for your entire team. Che brings your Kubernetes application into
+      your development environment and provides an in-browser IDE, allowing you to code, build, test and run applications
+      exactly as they run on production from any machine.
+  leads:
+    - name: Sun Seng David Tan
+- name: QuickPerf
+  url: https://github.com/quick-perf
+  description:
+    en: |
+      QuickPerf is a testing library for Java to quickly evaluate some performance properties.
+  leads:
+    - name: Jean Bisutti
