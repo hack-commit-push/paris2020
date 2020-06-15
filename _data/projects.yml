@@ -67,3 +67,10 @@
       QuickPerf is a testing library for Java to quickly evaluate some performance properties.
   leads:
     - name: Jean Bisutti
+- name: Openwhyd
+  url: https://github.com/openwhyd
+  description:
+    en: |
+      A platform to collect & share musical gems from YouTube, SoundCloud & more.
+  leads:
+    - name: Adrien Joly
