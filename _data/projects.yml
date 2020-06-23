@@ -5,7 +5,13 @@
       XWiki is the Advanced Open Source Enterprise Wiki.
   leads:
     - name: Ludovic Dubost
+      spoken_languages:
+        - FR
+        - EN
     - name: Clément Aubin
+      spoken_languages:
+        - FR
+        - EN
 - name: CryptPad
   url: https://cryptpad.fr/
   description:
@@ -14,7 +20,13 @@
       All the content stored on CryptPad is encrypted before being sent.
   leads:
     - name: Ludovic Dubost
+      spoken_languages:
+        - FR
+        - EN
     - name: Clément Aubin
+      spoken_languages:
+        - FR
+        - EN
 - name: Testcontainers
   url: https://www.testcontainers.org/
   description:
@@ -23,6 +35,9 @@
       instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
   leads:
     - name: Kevin Wittek
+      spoken_languages:
+        - DE
+        - EN
 - name: Groovy
   url: http://groovy-lang.org/
   description:
@@ -34,6 +49,9 @@
       meta-programming and functional programming. 
   leads:
     - name: Andres Almiray
+      spoken_languages:
+        - ES
+        - EN
 - name: Apache Maven
   url: https://maven.apache.org/
   description:
@@ -42,14 +60,20 @@
       Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
   leads:
     - name: Hervé Boutemy
+      spoken_languages:
+        - FR
+        - EN
 - name: Kubernetes FR Docs
   url: https://kubernetes.io/fr/docs/
   description:
-    fr: |
-      Nous vous proposons d’améliorer la traduction de la documentation de Kubernetes au cours de cet atelier.
-      Nous verrons les principales problématiques, le processus de revue et les outils qui servent à fournir la documentation de Kubernetes.
+    en: |
+      Let's improve the translation of the Kubernetes documentation together!
+      We will review the main issues, the review process and the tooling in place to produce the documentation!
   leads:
     - name: Rémy Leone
+      spoken_languages:
+        - FR
+        - EN
 - name: Eclipse Che
   url: https://www.eclipse.org/che/
   description:
@@ -60,6 +84,9 @@
       exactly as they run on production from any machine.
   leads:
     - name: Sun Seng David Tan
+      spoken_languages:
+        - FR
+        - EN
 - name: QuickPerf
   url: https://github.com/quick-perf
   description:
@@ -67,6 +94,9 @@
       QuickPerf is a testing library for Java to quickly evaluate some performance properties.
   leads:
     - name: Jean Bisutti
+      spoken_languages:
+        - FR
+        - EN
 - name: Openwhyd
   url: https://github.com/openwhyd
   description:
@@ -74,3 +104,6 @@
       A platform to collect & share musical gems from YouTube, SoundCloud & more.
   leads:
     - name: Adrien Joly
+      spoken_languages:
+        - FR
+        - EN
