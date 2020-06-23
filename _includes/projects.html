@@ -6,14 +6,16 @@
         {% else %}
         <table class="table">
         	<tr>
-        		<th class="col-md-1">Name</th>
-        		<th class="col-md-3">Leads</th>
-        		<th class="col-md-8">Description</th>
+        		<th class="col-md-2">Name (+ <i class="fa fa-video-camera project-video" aria-hidden="true"></i>)</th>
+        		<th class="col-md-3">Leads (+ spoken languages)</th>
+        		<th class="col-md-7">Description</th>
         	</tr>
         	{% for project in projects %}
         	<tr>
                 {% assign rowspan = project.description | size %}
-        		<td class="col-md-1" rowspan="{{rowspan}}"><a href="{{project.url}}" rel="noopener" target="_blank">{{project.name | replace: ' ', '&nbsp;'}}</a></td>
+        		    <td class="col-md-2" rowspan="{{rowspan}}"><a href="{{project.url}}" rel="noopener" target="_blank">{{project.name | replace: ' ', '&nbsp;'}}</a>
+                    {% if project.video_link %}(<a rel="noopener" target="_blank" href="{{project.video_link}}"><i class="fa fa-video-camera project-video" aria-hidden="true"></i></a>){% endif %}
+                </td>
         		<td class="col-md-3" rowspan="{{rowspan}}">
                 {% for lead in project.leads %}
                     {{ lead.name }} ({{ lead.spoken_languages | join: ", "  | replace: ' ', '&nbsp;' | replace: ',&nbsp; ', ', '}}){% if forloop.last == false %}<br />{% endif %}
@@ -26,7 +28,7 @@
                          lang="{{lang}}"
                         {% endcapture %}
                     {% endif %}
-        		<td{{lang_attribute}} class="col-md-8">{{description[1]}}</td>
+        		<td{{lang_attribute}} class="col-md-7">{{description[1]}}</td>
             </tr>
                 {% if forloop.last == false %}
             <tr>
