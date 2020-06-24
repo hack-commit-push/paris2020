@@ -115,7 +115,7 @@
     en: |
       A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards. 
   leads:
-    - name: Clement Scoffier
+    - name: Clément Escoffier
       spoken_languages:
         - FR
         - EN
