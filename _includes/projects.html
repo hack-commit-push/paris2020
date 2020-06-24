@@ -1,6 +1,6 @@
 <section id="projects">
     <div class="container">
-        {% assign projects = site.data.projects | sort: 'name' %}
+        {% assign projects = site.data.projects | sort_natural: 'name' %}
         {% if projects.size == 0 %}
             <h2 class="text-center">To be announced</h2>
         {% else %}
