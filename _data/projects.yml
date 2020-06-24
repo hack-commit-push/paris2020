@@ -109,3 +109,13 @@
       spoken_languages:
         - FR
         - EN
+- name: Quarkus
+  url: https://quarkus.io
+  description:
+    en: |
+      A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards. 
+  leads:
+    - name: Clement Scoffier
+      spoken_languages:
+        - FR
+        - EN
