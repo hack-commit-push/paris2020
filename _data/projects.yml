@@ -119,3 +119,15 @@
       spoken_languages:
         - FR
         - EN
+- name: s3cmd
+  url: https://github.com/s3tools/s3cmd
+  description:
+    en: |
+      S3cmd is a command line tool and client for uploading, retrieving and managing data in Amazon S3 and other cloud storage service providers that use the S3 protocol, such as Scaleway Object Storage, DigitalOcean Spaces or IBM COS.
+      S3cmd is written in Python with the minimal amount of dependencies. It's an independent open source project.
+      Despite the "Object Storage" term that can look scary for a non-professional usage, it is in fact quite simple, fun and useful for personal usage with no or a low cost.
+  leads:
+    - name: Florent Viard
+      spoken_languages:
+        - FR
+        - EN
