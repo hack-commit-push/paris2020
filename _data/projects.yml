@@ -12,6 +12,11 @@
       spoken_languages:
         - FR
         - EN
+    - name: Anca Luca
+      spoken_languages:
+        - RO
+        - FR
+        - EN
 - name: CryptPad
   url: https://cryptpad.fr/
   description:
