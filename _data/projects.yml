@@ -23,10 +23,6 @@
       spoken_languages:
         - FR
         - EN
-    - name: Clément Aubin
-      spoken_languages:
-        - FR
-        - EN
 - name: Testcontainers
   url: https://www.testcontainers.org/
   description:
