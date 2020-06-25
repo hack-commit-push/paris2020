@@ -8,3 +8,6 @@ other:
   - name: Swicket
     url: https://swicket.io/
     picture: swicket.png
+  - name: No Starch Press
+    url: https://nostarch.com/
+    picture: NSP.png
